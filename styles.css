@@ -95,7 +95,13 @@ footer {
   font-weight:700;
 }
 
+.video-title a{
+  color: #ffffff;
+  text-decoration: none;
+}
+
 .download-btn {
+  font-size: 14px;
   display: block;
   margin: 12px;
   padding: 12px;
